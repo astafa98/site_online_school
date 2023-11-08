@@ -79,8 +79,8 @@ header, footer {
   border: 3px solid var(--color1);
 }
 .zoom:hover {
-  transition: 0.5s; 
-  transform: scale(1.02);
+  transition: 0.8s; 
+  transform: scale(1.012);
 }
 /* about course */
 .about, .shedule {
